@@ -18,7 +18,7 @@ const handleLearnMore = () => {
             <img src={iPhone} alt="iPhone 14 Pro" />
             <p className="text">3D Showcase</p>
             <span className="description">
-            Welcome to the 3D Model NFT Preview Section
+            Welcome to the 3D Model NFT Preview Section. Click <span className="text-2">LEARN MORE</span>
             </span>
 
             <ul className="links">

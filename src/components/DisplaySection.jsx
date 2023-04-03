@@ -14,7 +14,7 @@ function DisplaySection({triggerPreview}) {
             <h2 className="title"> ODASEA. </h2>
                 <p className="text">Showcase</p>
                 <span className="description">
-                   View 3D-Model From Our Collection
+                   Click button to interact with this 3D-Model From Our Collection
                 </span>
                 <button className="button" onClick={triggerPreview}>Click Me!</button>
                 <button className="back-button" onClick={handleScrollToTop}>TOP</button>            
